@@ -1,0 +1,9 @@
+C:\Users\INFI\source\repos\ICare\Shared\bin\Release\netcoreapp3.1\ICare.Shared.deps.json
+C:\Users\INFI\source\repos\ICare\Shared\bin\Release\netcoreapp3.1\ICare.Shared.dll
+C:\Users\INFI\source\repos\ICare\Shared\bin\Release\netcoreapp3.1\ICare.Shared.pdb
+C:\Users\INFI\source\repos\ICare\Shared\obj\Release\netcoreapp3.1\ICare.Shared.csprojAssemblyReference.cache
+C:\Users\INFI\source\repos\ICare\Shared\obj\Release\netcoreapp3.1\ICare.Shared.AssemblyInfoInputs.cache
+C:\Users\INFI\source\repos\ICare\Shared\obj\Release\netcoreapp3.1\ICare.Shared.AssemblyInfo.cs
+C:\Users\INFI\source\repos\ICare\Shared\obj\Release\netcoreapp3.1\ICare.Shared.csproj.CoreCompileInputs.cache
+C:\Users\INFI\source\repos\ICare\Shared\obj\Release\netcoreapp3.1\ICare.Shared.dll
+C:\Users\INFI\source\repos\ICare\Shared\obj\Release\netcoreapp3.1\ICare.Shared.pdb

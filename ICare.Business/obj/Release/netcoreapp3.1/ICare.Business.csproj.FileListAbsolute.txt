@@ -1,0 +1,14 @@
+C:\Users\INFI\source\repos\ICare\ICare.Business\bin\Release\netcoreapp3.1\ICare.Business.deps.json
+C:\Users\INFI\source\repos\ICare\ICare.Business\bin\Release\netcoreapp3.1\ICare.Business.dll
+C:\Users\INFI\source\repos\ICare\ICare.Business\bin\Release\netcoreapp3.1\ICare.Business.pdb
+C:\Users\INFI\source\repos\ICare\ICare.Business\bin\Release\netcoreapp3.1\ICare.Repository.dll
+C:\Users\INFI\source\repos\ICare\ICare.Business\bin\Release\netcoreapp3.1\ICare.Shared.dll
+C:\Users\INFI\source\repos\ICare\ICare.Business\bin\Release\netcoreapp3.1\ICare.Repository.pdb
+C:\Users\INFI\source\repos\ICare\ICare.Business\bin\Release\netcoreapp3.1\ICare.Shared.pdb
+C:\Users\INFI\source\repos\ICare\ICare.Business\obj\Release\netcoreapp3.1\ICare.Business.csprojAssemblyReference.cache
+C:\Users\INFI\source\repos\ICare\ICare.Business\obj\Release\netcoreapp3.1\ICare.Business.AssemblyInfoInputs.cache
+C:\Users\INFI\source\repos\ICare\ICare.Business\obj\Release\netcoreapp3.1\ICare.Business.AssemblyInfo.cs
+C:\Users\INFI\source\repos\ICare\ICare.Business\obj\Release\netcoreapp3.1\ICare.Business.csproj.CoreCompileInputs.cache
+C:\Users\INFI\source\repos\ICare\ICare.Business\obj\Release\netcoreapp3.1\ICare.Business.csproj.CopyComplete
+C:\Users\INFI\source\repos\ICare\ICare.Business\obj\Release\netcoreapp3.1\ICare.Business.dll
+C:\Users\INFI\source\repos\ICare\ICare.Business\obj\Release\netcoreapp3.1\ICare.Business.pdb
